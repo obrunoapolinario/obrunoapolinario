@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=4000&pause=300&color=50C878&center=true&vCenter=true&width=1500&height=150&lines=Bruno+Apolin%C3%A1rio;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 ---
-Me chamo Bruno Apolinário, tenho 20 anos, moro em Itaperuna-RJ, sou estudante de Sistemas de Informação no IFF Itaperuna e um futuro Desenvolvedor Web.
-
-<details>
-  <summary>Atualmente estou estudando</summary>
-  
-  * ReactJS
-  * NestJS
-</details>
+Me chamo Bruno Apolinário, tenho 20 anos, moro em Itaperuna/RJ, sou estudante de Sistemas de Informação no IFF Itaperuna e um Desenvolvedor Web.
 
 ---
 
