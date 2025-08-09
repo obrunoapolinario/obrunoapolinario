@@ -16,7 +16,5 @@ Creating impactful things through code
 
 ## 📚 On My Learning Wishlist
 
-- 🐘 PHP (Laravel)
-- ☕ Java (Spring)
 - 🎯 C# (.NET)
 - 🦀 Rust
